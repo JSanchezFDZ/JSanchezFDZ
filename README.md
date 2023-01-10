@@ -33,3 +33,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsanchezfdz&show_icons=true&locale=en&count_private=true&theme=dark" alt="jsanchezfdz" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JSanchezFDZ&theme=dark" alt="jsanchezfdz" /></p>
+
+<p align="center"><img align="center" src="https://github.com/JSanchezFDZ/JSanchezFDZ/blob/output/github-contribution-grid-snake.gif?raw=true"/></p>
