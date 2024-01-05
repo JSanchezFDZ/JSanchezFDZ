@@ -2,21 +2,19 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Jesús Sánchez Fernández</h1>
-<h3 align="center">A passionate Developer, SysAdmin & Project Manager from Spain.</h3>
+<h3 align="center">A passionate Full-Stack Developer (Specialized in blockchain), Project Manager & SysAdmin from Spain.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jsanchezfdz&label=Profile%20views&color=0e75b6&style=flat" alt="jsanchezfdz" /> </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jsanchezfdz&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="jsanchezfdz" /></p>
 
-- 🔭 I’m currently working on [JSanchezFDZ | All-in-One Blockchain Company](https://jsanchezfdz.es)
+- 🔭 I’m currently working on [Unknown Gravity | All-in-One Blockchain Company](https://www.unknowngravity.com)
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://www.jsanchezfdz.es](https://www.jsanchezfdz.es)
-
 - 💬 Ask me about **everything you need**
 
-- 📫 How to reach me **hola@jsanchezfdz.es**
+- 📫 How to reach me **jsanchez@unknowngravity.com**
 
 - ⚡ Fun fact: **I use tabs over spaces**
 
@@ -33,5 +31,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsanchezfdz&show_icons=true&locale=en&count_private=true&theme=dark" alt="jsanchezfdz" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JSanchezFDZ&theme=dark" alt="jsanchezfdz" /></p>
-
-<p align="center"><img align="center" src="https://github.com/JSanchezFDZ/JSanchezFDZ/blob/output/github-contribution-grid-snake.gif?raw=true"/></p>
